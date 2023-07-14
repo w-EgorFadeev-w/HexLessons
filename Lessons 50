@@ -1,0 +1,5 @@
+def word_multiply(text: str, number: int) -> str:
+    result: int = number * 1
+    text = 'python'
+    return result * text
+print(word_multiply('text',2))
